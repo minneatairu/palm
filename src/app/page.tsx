@@ -51,7 +51,7 @@ export default function Home() {
         </Head>
 
         <p className="mb-4 text-lg text-gray-700">
-          Dreamsomething with{" "}
+          Dreamsomething\ with{" "}
           <a href="https://replicate.com/stability-ai/stable-diffusion" className="text-blue-500 hover:underline">
             SDXL
           </a>:
